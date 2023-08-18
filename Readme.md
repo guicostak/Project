@@ -16,7 +16,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 </ul>
 
 <h2>Passos:</h2>
-Clone o repositório: Abra o terminal e execute o seguinte comando para clonar o repositório:
+Clone o repositório:<br> Abra o terminal e execute o seguinte comando para clonar o repositório:
 
 
 shell<br>
@@ -36,6 +36,6 @@ npm install @fortawesome/fontawesome-free<br>
 <h3>Comentário</h3>
 A aplicação está rodando o backend na porta 5174 e o frontend na porta 44410.<br>
 Espero que o programa execute como esperado, fico à disposição para tirar qualquer dúvida.<br>
-
+<br>
 Atenciosamente,<br>
 Guilherme Costa<br>
