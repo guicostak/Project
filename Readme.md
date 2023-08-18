@@ -33,7 +33,7 @@ npm install @fortawesome/fontawesome-free
 Acesso à aplicação: Abra o Visual Studio e execute o programa. Após a execução dos passos acima, você poderá utilizar a aplicação em seu navegador. Ela irá abrir automaticamente ao executar o programa.
 
 <h3>Comentário</h3>
-Para a criação da aplicação, utilizei a biblioteca Axios para acesso ao servidor devido à minha maior familiaridade com ela.
+Espero que o programa execute como esperado, fico à disposição para tirar qualquer dúvida.
 
 Atenciosamente,
 Guilherme Costa
