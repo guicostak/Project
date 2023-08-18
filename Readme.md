@@ -19,21 +19,23 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 Clone o repositório: Abra o terminal e execute o seguinte comando para clonar o repositório:
 
 
-shell
-Copy code
-git clone https://github.com/guicostak/Project.git
+shell<br>
+Copy code<br>
+git clone https://github.com/guicostak/Project.git<br>
+
 Instalação das bibliotecas: Abra o terminal do Visual Studio e execute a instalação das bibliotecas necessárias:
 
-shell
-Copy code
-npm install axios
-npm install sweetalert2
-npm install bootstrap
-npm install @fortawesome/fontawesome-free
-Acesso à aplicação: Abra o Visual Studio e execute o programa. Após a execução dos passos acima, você poderá utilizar a aplicação em seu navegador. Ela irá abrir automaticamente ao executar o programa.
+shell<br>
+Copy code<br>
+npm install axios<br>
+npm install sweetalert2<br>
+npm install bootstrap<br>
+npm install @fortawesome/fontawesome-free<br>
+<h2>Acesso à aplicação:</h2><br> Abra o Visual Studio e execute o programa. Após a execução dos passos acima, você poderá utilizar a aplicação em seu navegador. Ela irá abrir automaticamente ao executar o programa.
 
 <h3>Comentário</h3>
-Espero que o programa execute como esperado, fico à disposição para tirar qualquer dúvida.
+A aplicação está rodando o backend na porta 5174 e o frontend na porta 44410.<br>
+Espero que o programa execute como esperado, fico à disposição para tirar qualquer dúvida.<br>
 
-Atenciosamente,
-Guilherme Costa
+Atenciosamente,<br>
+Guilherme Costa<br>
